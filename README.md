@@ -1,7 +1,9 @@
 # Zeedhi
 
-<img src='Assets/img/homepage/zeedhiimage.png'>
-
+<div align="center
+">
+    <img src='Assets/img/homepage/zeedhiimage.png'>
+</div>
 <strong>ESSA NÃO É UMA DOCUMENTAÇÃO OFICIAL É UM ESTUDO SOBRE O FRAMEWORK</strong>
 
 
@@ -36,4 +38,4 @@ ou simplesmente, crie uma **ISSUE**
 </div>
 Todos os direitos do uso do framework Zeedhi pertecem a Teknisa. 
 
-Documentação inicial criada por [Paulo Rievrs](https://github.com/paulorievrs)
+Documentação inicial criada por [Paulo Rievrs](https://www.linkedin.com/in/paulo-rievrs/)

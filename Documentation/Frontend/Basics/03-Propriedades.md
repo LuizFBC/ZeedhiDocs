@@ -65,10 +65,22 @@ As propriedades de widgets são algumas definições de comportamento dentro da 
     + Tipos de validação:
         + Required
             + Recebe: true/false
-    + Exemplos:
+    + Exemplo:
     ```json
         "validations": {
             "required": true
         },
     ```
     <small>Keys: validação, validacao, required</small>
+
+* filterProperties
+    + Recebe: Objeto com propriedades que serão exibidas só na parte de filtragem
+    + Ação: Define propriedades específicas para aba de filtros, pode ser utilizado quaisquer outra propriedade
+    + Exemplo:
+    ```json
+        "filterProperties": {
+            "isVisible": false
+        }
+    ```
+    <small>Keys: filtro, propriedades</small>
+    
