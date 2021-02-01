@@ -19,7 +19,7 @@ Abaixo você encontra um roadmap para utilizar.
 ## Como Contribuir
 <hr>
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
-são **extremamente apreciadas**
+são <strong>extremamente apreciadas</strong>
 
 1. Realize um Fork do projeto
 2. Crie um branch com a nova feature (`git checkout -b feature/novaFeature`)
