@@ -22,12 +22,15 @@ Sempre tem uma widget principal que engloba as outras widgets e podem existir ou
 
  + Stripe
     * A stripe é uma barra que fica acima de todos os outros componentes, e geralmente demonstra alguns dados do filtro que foi feito para trazer os dados
-```json
-    { 
-        "name": "STRIPE_WIDGET",
-        "template": "widget/stripe.html",
-        "isVisible": true,
-        "collapsible": true,
-        "fields": []
-    }
-```
+    ```json
+        { 
+            "name": "STRIPE_WIDGET",
+            "template": "widget/stripe.html",
+            "isVisible": true,
+            "collapsible": true,
+            "fields": []
+        }
+    ```
+
+    <img src='../../../Assets/img/widgets_fields/stripe.png'>
+
