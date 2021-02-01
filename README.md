@@ -8,7 +8,7 @@ Zeedhi é um framework criado pela Teknisa. Quis fazer essa documentação para 
 Abaixo você encontra um roadmap para utilizar.
 
 
-### Frontend
+## Frontend
 
 00. [Introdução](Documentation/Frontend/Basics/00-Introducao.md)
 01. [Containers](Documentation/Frontend/Basics/01-Containers.md)
@@ -17,7 +17,6 @@ Abaixo você encontra um roadmap para utilizar.
 04. [Eventos](Documentation/Frontend/Basics/04-Eventos)
 
 ## Como Contribuir
-<hr>
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
 são <strong>extremamente apreciadas</strong>
 
@@ -30,7 +29,6 @@ são <strong>extremamente apreciadas</strong>
 ou simplesmente, crie uma **ISSUE**
 
 ## Créditos
-<hr>
 Todos os direitos do uso do framework Zeedhi pertecem a Teknisa. 
 
 
