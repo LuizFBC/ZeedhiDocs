@@ -16,9 +16,9 @@ Abaixo você encontra um roadmap para utilizar.
 
 00. [Introdução](Documentation/Frontend/Basics/00-Introducao.md)
 01. [Containers](Documentation/Frontend/Basics/01-Containers.md)
-02. [Widgets e Fields](Documentation/Frontend/Basics/02-Widgets-Fields)
-03. [Propriedades](Documentation/Frontend/Basics/03-Propriedades)
-04. [Eventos](Documentation/Frontend/Basics/04-Eventos)
+02. [Widgets e Fields](Documentation/Frontend/Basics/02-Widgets-Fields.md)
+03. [Propriedades](Documentation/Frontend/Basics/03-Propriedades.md)
+04. [Eventos](Documentation/Frontend/Basics/04-Eventos.md)
 
 ## Como Contribuir
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
