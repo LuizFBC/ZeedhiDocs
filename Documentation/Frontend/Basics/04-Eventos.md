@@ -100,24 +100,53 @@ As widgets contem eventos que podem ser realizados. Uma lista deles é:
 
 Aos poucos serão preenchidos definições.
 
+<hr>
+
+
 ### WidgetOnEnter
 
 Ao carregar a widget irá disparar esse evento, realizando o script JavaScript dele.
+
+<hr>
 
 ### WidgetOnEnterOnce
 
 Ao carregar a widget somente uma vez irá disparar esse evento, realizando o script JavaScript dele.
 
+<hr>
+
 ### FilterAfterApply
 
 Ao aplicar o filtro e buscar os dados na datasource executa esse evento (antes de mostrar, é justo na hora que volta do datasource)
+
+<hr>
 
 ### FilterBeforeApply
 
 Ao clicar em aplicar o filtro, ele realiza esse evento antes de buscar os dados no datasource
 
+<hr>
+
 ### FieldOnChange
 
 Ao alterar o estado da filed, seja usando um template de select e selecionando um dado, ele realiza esse evento.
 
-### 
+<hr>
+
+### FieldBeforeSelectOpen
+
+Antes de abrir o select, executa o evento
+
+<hr>
+
+### FieldAfterSelectOpen
+
+Após de abrir o select, executa o evento
+
+<hr>
+
+### WidgetPopUpOnCancel
+
+Após cancelar no popup executa o evento
+
+<hr>

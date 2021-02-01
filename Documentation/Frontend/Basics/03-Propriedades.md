@@ -1,6 +1,6 @@
-# Propriededas
+# Propriedades
 
-As propriedes de widgets são algumas definições de comportamento dentro da tela de cada uma delas, uma lista delas seria:
+As propriedades de widgets são algumas definições de comportamento dentro da tela de cada uma delas, uma lista delas seria:
 
 * showOnView
     + Recebe: true/false
@@ -10,7 +10,7 @@ As propriedes de widgets são algumas definições de comportamento dentro da te
     ```json
      "showOnView": true
      ```
-
+    <small>Keys: showOnView, swipe</small>
 * showOnList
     + Recebe: true/false
     + Ação: Lista no grid
@@ -19,7 +19,7 @@ As propriedes de widgets são algumas definições de comportamento dentro da te
     ```json
      "showOnList": true
      ```
-
+    <small>Keys: showOnList, grid, lista</small>
 * showOnForm
     + Recebe: true/false
     + Ação: Edita/Inclui registro
@@ -28,7 +28,7 @@ As propriedes de widgets são algumas definições de comportamento dentro da te
     ```json
      "showOnForm": true
      ```
-
+    <small>Keys: showOnForm, incuir, alterar, editar</small>
 * readOnly
     + Recebe: true/false
     + Ação: Se é somente visivel ou passível de edição
@@ -37,7 +37,8 @@ As propriedes de widgets são algumas definições de comportamento dentro da te
     ```json
      "readOnly": true
      ```
-
+    <small>Keys: readOnly, editar, leitura, read</small>
+    
 * isVisible
     + Recebe: true/false
     + Ação: Se o campo é visivel ou não
@@ -46,6 +47,7 @@ As propriedes de widgets são algumas definições de comportamento dentro da te
     ```json
      "isVisible": true
      ```
+    <small>Keys: isVisible, visibilidade, campo</small>
 
 * template
     + Recebe: string da localidade de um template
@@ -55,6 +57,7 @@ As propriedes de widgets são algumas definições de comportamento dentro da te
     ```json
      "template": "field/select-multiple.html"
      ```
+    <small>Keys: template</small>
 
 * validations
     + Recebe: Objeto com definições de validações
@@ -68,3 +71,4 @@ As propriedes de widgets são algumas definições de comportamento dentro da te
             "required": true
         },
     ```
+    <small>Keys: validação, validacao, required</small>
